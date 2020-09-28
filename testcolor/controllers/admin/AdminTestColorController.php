@@ -7,7 +7,7 @@ if (!defined('_PS_VERSION_')) {
 
 class AdminTestColorController extends ModuleAdminController
 {
-    /** @var Test_Color $module */
+    /** @var TestColor $module */
     public $module;
 
     /**
